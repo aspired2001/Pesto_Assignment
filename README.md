@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+![Pesto pic](https://github.com/aspired2001/Pesto_Assignment/assets/100749624/d89345fc-b93c-4f45-a47f-6d48d068f231)
+
+
+#getting Started with Create React App
 
 Deplyed on Vercel link: https://pesto-assignment.vercel.app/
 
